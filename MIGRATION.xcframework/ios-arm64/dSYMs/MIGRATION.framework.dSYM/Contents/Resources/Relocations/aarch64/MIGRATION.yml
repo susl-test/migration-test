@@ -1,0 +1,18 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/sergey.blazhko/Library/Developer/Xcode/DerivedData/InBrainSurveys-dtrvauywzhksvcbaqqazkkeqbcbi/Build/Intermediates.noindex/ArchiveIntermediates/MIGRATION_SDK/InstallationBuildProductsLocation/Library/Frameworks/MIGRATION.framework/MIGRATION'
+relocations:
+  - { offset: 0x5A756, size: 0x8, addend: 0x0, symName: '_$s9MIGRATIONAAC10helloWorldyyF', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x4 }
+  - { offset: 0x5A85B, size: 0x8, addend: 0x0, symName: '_$ss12_ArrayBufferV19_getElementSlowPathyyXlSiFSo8UIWindowC_Tg5', symObjAddr: 0xCC, symBinAddr: 0x40CC, symSize: 0x1C4 }
+  - { offset: 0x5A981, size: 0x8, addend: 0x0, symName: '_$s9MIGRATIONAACMa', symObjAddr: 0x608, symBinAddr: 0x4608, symSize: 0x20 }
+  - { offset: 0x5A995, size: 0x8, addend: 0x0, symName: '_$sSo8UIWindowCMa', symObjAddr: 0x628, symBinAddr: 0x4628, symSize: 0x44 }
+  - { offset: 0x5A9B0, size: 0x8, addend: 0x0, symName: '_$s9MIGRATIONAAC10helloWorldyyF', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x4 }
+  - { offset: 0x5A9CB, size: 0x8, addend: 0x0, symName: '_$s9MIGRATIONAAC10helloWorldyyFTo', symObjAddr: 0x4, symBinAddr: 0x4004, symSize: 0x4 }
+  - { offset: 0x5A9E3, size: 0x8, addend: 0x0, symName: '_$s9MIGRATIONAAC10helloWorldyyFTo', symObjAddr: 0x4, symBinAddr: 0x4004, symSize: 0x4 }
+  - { offset: 0x5A9FB, size: 0x8, addend: 0x0, symName: '_$s9MIGRATIONAACABycfC', symObjAddr: 0x8, symBinAddr: 0x4008, symSize: 0x20 }
+  - { offset: 0x5AA0F, size: 0x8, addend: 0x0, symName: '_$s9MIGRATIONAACABycfc', symObjAddr: 0x28, symBinAddr: 0x4028, symSize: 0x34 }
+  - { offset: 0x5AA47, size: 0x8, addend: 0x0, symName: '_$s9MIGRATIONAACABycfcTo', symObjAddr: 0x5C, symBinAddr: 0x405C, symSize: 0x3C }
+  - { offset: 0x5AA7C, size: 0x8, addend: 0x0, symName: '_$s9MIGRATIONAACfD', symObjAddr: 0x98, symBinAddr: 0x4098, symSize: 0x34 }
+  - { offset: 0x5ABF1, size: 0x8, addend: 0x0, symName: '_$s9MIGRATIONAAC18rootViewControllerSo06UIViewD0CSgvgTf4d_n', symObjAddr: 0x290, symBinAddr: 0x4290, symSize: 0x268 }
+  - { offset: 0x5ADAB, size: 0x8, addend: 0x0, symName: '_$s9MIGRATIONAAC10helloWorldyyFTf4d_n', symObjAddr: 0x4F8, symBinAddr: 0x44F8, symSize: 0x110 }
+...

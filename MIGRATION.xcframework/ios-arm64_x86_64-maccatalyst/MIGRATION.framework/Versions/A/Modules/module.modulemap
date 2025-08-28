@@ -1,0 +1,4 @@
+framework module MIGRATION {
+  header "MIGRATION-Swift.h"
+  requires objc
+}

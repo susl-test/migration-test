@@ -1,0 +1,17 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/sergey.blazhko/Library/Developer/Xcode/DerivedData/InBrainSurveys-dtrvauywzhksvcbaqqazkkeqbcbi/Build/Intermediates.noindex/ArchiveIntermediates/MIGRATION_SDK/InstallationBuildProductsLocation/Library/Frameworks/MIGRATION.framework/Versions/A/MIGRATION'
+relocations:
+  - { offset: 0xD835E, size: 0x8, addend: 0x0, symName: '_$s9MIGRATIONAAC10helloWorldyyF', symObjAddr: 0x0, symBinAddr: 0x1180, symSize: 0x10 }
+  - { offset: 0xD846E, size: 0x8, addend: 0x0, symName: '_$ss12_ArrayBufferV19_getElementSlowPathyyXlSiFSo8UIWindowC_Tg5', symObjAddr: 0xD0, symBinAddr: 0x1250, symSize: 0x1F0 }
+  - { offset: 0xD85BB, size: 0x8, addend: 0x0, symName: '_$s9MIGRATIONAACMa', symObjAddr: 0x680, symBinAddr: 0x1800, symSize: 0x20 }
+  - { offset: 0xD85CF, size: 0x8, addend: 0x0, symName: '_$sSo8UIWindowCMa', symObjAddr: 0x6A0, symBinAddr: 0x1820, symSize: 0x32 }
+  - { offset: 0xD85EB, size: 0x8, addend: 0x0, symName: '_$s9MIGRATIONAAC10helloWorldyyF', symObjAddr: 0x0, symBinAddr: 0x1180, symSize: 0x10 }
+  - { offset: 0xD8606, size: 0x8, addend: 0x0, symName: '_$s9MIGRATIONAAC10helloWorldyyFTo', symObjAddr: 0x10, symBinAddr: 0x1190, symSize: 0x10 }
+  - { offset: 0xD8637, size: 0x8, addend: 0x0, symName: '_$s9MIGRATIONAACABycfC', symObjAddr: 0x20, symBinAddr: 0x11A0, symSize: 0x20 }
+  - { offset: 0xD864B, size: 0x8, addend: 0x0, symName: '_$s9MIGRATIONAACABycfc', symObjAddr: 0x40, symBinAddr: 0x11C0, symSize: 0x30 }
+  - { offset: 0xD8683, size: 0x8, addend: 0x0, symName: '_$s9MIGRATIONAACABycfcTo', symObjAddr: 0x70, symBinAddr: 0x11F0, symSize: 0x30 }
+  - { offset: 0xD86B8, size: 0x8, addend: 0x0, symName: '_$s9MIGRATIONAACfD', symObjAddr: 0xA0, symBinAddr: 0x1220, symSize: 0x30 }
+  - { offset: 0xD8838, size: 0x8, addend: 0x0, symName: '_$s9MIGRATIONAAC18rootViewControllerSo06UIViewD0CSgvgTf4d_n', symObjAddr: 0x2C0, symBinAddr: 0x1440, symSize: 0x2B0 }
+  - { offset: 0xD8A34, size: 0x8, addend: 0x0, symName: '_$s9MIGRATIONAAC10helloWorldyyFTf4d_n', symObjAddr: 0x570, symBinAddr: 0x16F0, symSize: 0x110 }
+...
