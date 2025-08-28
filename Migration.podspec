@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 
-  s.name         = "MIGRATION-TEST"
+  s.name         = "MIGRATION"
   s.version      = "0.0.1"
   s.summary      = "JUST TESTING"
   s.description  = "JUST TESTING"
